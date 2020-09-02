@@ -1,10 +1,12 @@
-## Welcome!
+# Welcome!
 
-My name is Julia Bengtsson and I'm from Sweden
+## Information about me
 
+### Name
+My name is Julia Bengtsson
+
+### Origin
+I'm born in Sweden 
 
 ### Studies
-
-I study:
-# Molecular biology
-## Molecular genetics
+I study molecular biology at Lund University
