@@ -1,2 +1,7 @@
-#Hi!
-##I'm Julia and I am from Sweden
+## Welcome!
+
+My name is Julia Bengtsson and I'm from Sweden
+
+### Studies
+
+I study Molecular biology
