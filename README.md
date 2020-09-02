@@ -1,13 +1,7 @@
 # BINP11-Public
-## Hi!
-### Name
-My name is Julia Bengtsson
-
-### Origin
-I'm born in Sweden
-
-### Studies
-I study Molecular Biology at Ludn University
+## This is a test for the course BINP11
+### About me
+My name is Julia Bengtsson and I'm from Sweden. I study Molecular Biology at Ludn University
 *Specialization in molecular genetics and biotechnology*
 
 
