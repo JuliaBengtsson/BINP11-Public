@@ -9,5 +9,5 @@ My name is Julia Bengtsson
 I'm born in Sweden 
 
 ### Studies
-I study molecular biology at Lund University
+I study molecular biology at Lund University.
 *Specialization in Molecular genetics and Biotechnology*
